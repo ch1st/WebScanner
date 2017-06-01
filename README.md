@@ -1,4 +1,4 @@
-# -WebScanner
+# WebScanner
 一款网站目录扫描工具 Linux/mac 
 ### 基于Python3语言
 使用操作:
